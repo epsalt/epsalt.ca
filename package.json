@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/epsalt/homepage#readme",
   "dependencies": {
-    "d3": "^6.3.1",
+    "d3": "^7.6.1",
     "d3-collection": "^1.0.7",
     "d3-tile": "^1.0.0",
     "leaflet": "^1.7.1",
